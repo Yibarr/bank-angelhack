@@ -11,8 +11,7 @@ function App() {
   return (
     <div className="App">
       <Navbar/>
-      <h2>This is app component</h2>
-      <div>Otro texto</div>
+      
     </div>
   );
 }
